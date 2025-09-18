@@ -3,7 +3,7 @@
     "@google-cloud/cloud-sql-connector": "^1.8.0",
     "bcryptjs": "^3.0.2",
     "express": "^5.1.0",
-    "express-session": "^1.18.1",
+    "express-session": "^1.18.2",
     "mysql2": "^3.14.1",
     "resolve": "^1.22.10"
   },
