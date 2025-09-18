@@ -338,7 +338,7 @@ export class ClientBuilder {
     }
 
     /**
-     * @param gender
+     * @param {string} gender
      * @returns {ClientBuilder} Returns this current ClientBuilder to allow method chaining.
      */
     setGender(gender){
